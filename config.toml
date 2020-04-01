@@ -1,3 +1,39 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "split"
+
+title = "Ada Lovelace"
+
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+copyright = "&copy;2020 Ada Lovelace"
+
+[params]
+
+    author = "Ada Lovelace"
+    description = "I am a magical code Queen and an enchantress of bits and bytes. I build machine learning models to understand the human brain and mind by writing Python code."
+    twitterHandle = "algurlrhythm"
+
+    [[params.links]]
+        [params.links.list1]
+            heading = "Connect"
+
+            [[params.links.list1.link]]
+                text = "Let's Talk"
+                url = "#"
+            
+            [[params.links.list1.link]]
+                text = "Send Me An Email"
+                url = "#"
+            
+    [[params.links]]
+        [params.links.list2]
+            heading = "Social"
+
+            [[params.links.list2.link]]
+                text = "LinkedIn"
+                url = "#"
+            
+            [[params.links.list2.link]]
+                text = "Twitter"
+                url = "#"
