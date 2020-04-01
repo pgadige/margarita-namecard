@@ -14,6 +14,12 @@ copyright = "&copy;2020 Ada Lovelace"
     description = "I am a magical code Queen and an enchantress of bits and bytes. I build machine learning models to understand the human brain and mind by writing Python code."
     twitterHandle = "algurlrhythm"
 
+    [params.visual]
+        [params.visual.image]
+            enable = true
+            file = "images/ada-lovelace.jpg"
+            position = "center center"
+
     [[params.links]]
         [params.links.list1]
             heading = "Connect"
@@ -23,8 +29,8 @@ copyright = "&copy;2020 Ada Lovelace"
                 url = "#"
             
             [[params.links.list1.link]]
-                text = "Send Me An Email"
-                url = "#"
+                text = "Email Me"
+                url = "mailto:poojagadige@gmail.com"
             
     [[params.links]]
         [params.links.list2]
@@ -32,8 +38,16 @@ copyright = "&copy;2020 Ada Lovelace"
 
             [[params.links.list2.link]]
                 text = "LinkedIn"
-                url = "#"
+                url = "https://www.linkedin.com/in/pgadige"
             
             [[params.links.list2.link]]
                 text = "Twitter"
-                url = "#"
+                url = "https://twitter.com/algurlrhythm"
+    
+    [[params.links]]
+        [params.links.list3]
+            heading = "Work"
+
+            [[params.links.list3.link]]
+                text = "Company"
+
