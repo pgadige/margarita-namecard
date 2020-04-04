@@ -50,4 +50,5 @@ copyright = "&copy;2020 Ada Lovelace"
 
             [[params.links.list3.link]]
                 text = "Company"
+                url = "https://www.adaslist.co/"
 
