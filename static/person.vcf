@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Lovelace;Ada;;;
+FN: Ada  Lovelace 
+ORG:Ada List;
+TITLE:Software Programmer,
+EMAIL;type=INTERNET;type=WORK;type=pref:poojagadige@gmail.com
+TEL;type=WORK;type=VOICE:+65 9123 4567
+END:VCARD

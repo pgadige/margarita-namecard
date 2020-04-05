@@ -26,7 +26,7 @@ copyright = "&copy;2020 Ada Lovelace"
 
             [[params.links.list1.link]]
                 text = "Let's Talk"
-                url = "#"
+                url = "person.vcf"
             
             [[params.links.list1.link]]
                 text = "Email Me"
