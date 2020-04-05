@@ -1,4 +1,4 @@
-baseURL = "//example.org"
+baseURL = "/"
 languageCode = "en-us"
 theme = "split"
 
