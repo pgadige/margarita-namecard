@@ -1,6 +1,6 @@
 ---
 title: "Ada Lovelace"
-tagline: "Programmer. Knitter. Thinker. Mathematician"
+tagline: "Coder. Knitter. Thinker"
 ---
 Ada is a software programmer. She codes in Python programming language.
 She builds machine learning models for predicting possible effects of climate change on
